@@ -1,5 +1,5 @@
 
-/*DROP DATABASE Proyecto;*/
+
 create database Proyecto;
 use Proyecto;
 Create table usuario (id_usuario int not null auto_increment primary key, 
